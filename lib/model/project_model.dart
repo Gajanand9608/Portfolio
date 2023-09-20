@@ -7,6 +7,12 @@ class Project {
 }
 
 List<Project> projectList = [
+   Project(
+    'Analog Clock',
+    'Designed a nice clean analog clock app UI by using flutter. Our clock supports both the Dark and Light theme.',
+    'assets/images/analog.png',
+    'https://github.com/Gajanand9608/Analog_Clock_UI',
+  ),
   
   Project(
     'YelpCamp',
